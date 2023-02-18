@@ -1,0 +1,17 @@
+/**************************************************************
+:root
+
+This is where your global variables are defined. Changing these will change
+the look of various elements THROUGHOUT THE ENTIRE WEBSITE.
+
+You can change these easily here to see large changes, for more
+finite control you will need to edit each file individually. I have
+left text instructions where I think there might be things you will
+want to change.
+
+**************************************************************/
+:root{
+    --branding-color-teal-50: #3F6A73;
+    --branding-color-coral-50: #D99067;
+    --branding-color-brown-50: #91664E;
+}
